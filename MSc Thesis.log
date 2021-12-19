@@ -1,0 +1,684 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.5)  19 DEC 2021 15:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"MSc Thesis.tex"
+(./MSc Thesis.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-02>
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/extsizes/ext
+article.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/extsizes/siz
+e14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/base/exscale
+.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen138
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/geometry/geo
+metry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/graphics/key
+val.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/generic/iftex/ifvt
+ex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/generic/iftex/ifte
+x.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count185
+\Gm@cntv=\count186
+\c@Gm@tempcnt=\count187
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks16
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/graphics/gra
+phicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/graphics/gra
+phics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/graphics/tri
+g.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/graphics-cfg
+/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/graphics-def
+/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/amsfonts/ams
+fonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/amsmath/amsm
+ath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/amsmath/amst
+ext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/amsmath/amsg
+en.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen150
+))
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/amsmath/amsb
+sy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/amsmath/amso
+pn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip16
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks19
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks20
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/psnfss/mathp
+azo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup6
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+\symboldupright=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/amsfonts/ams
+symb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
+5.
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/psnfss/ot1pp
+l.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/l3backend/l3
+backend-pdftex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box49
+) (./MSc Thesis.aux)
+\openout1 = `"MSc Thesis.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(62.59596pt, 483.4126pt, 68.28644pt)
+* v-part:(T,H,B)=(56.9055pt, 678.31354pt, 59.75095pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=483.4126pt
+* \textheight=678.31354pt
+* \oddsidemargin=-9.67403pt
+* \evensidemargin=-9.67403pt
+* \topmargin=-54.36449pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=24.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/context/base/mkii/
+supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen159
+\scratchbox=\box50
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen160
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks24
+)
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/epstopdf-pkg
+/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/latexconfig/
+epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)) [1
+
+{/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-var/fonts/map/pdftex/updmap
+/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+[2] (./MSc Thesis.toc
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+2.
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/psnfss/omlzp
+lm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+2.
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/psnfss/omszp
+lm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+2.
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/psnfss/omxzp
+lm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 2.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 2.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 2.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 2.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 2.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 2.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+2.
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/psnfss/ot1zp
+lm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 
+18.
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/psnfss/ufplm
+bb.fd
+File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
+))
+\tf@toc=\write3
+\openout3 = `"MSc Thesis.toc"'.
+
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Overfull \hbox (0.60922pt too wide) in paragraph at lines 81--83
+\OT1/ppl/m/n/14.4 In the past, math-e-mat-ics has been con-cerned with sets and
+ func-tions to which
+ []
+
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+<cantor.jpeg, id=24, 311.4837pt x 150.68295pt>
+File: cantor.jpeg Graphic file (type jpg)
+<use cantor.jpeg>
+Package pdftex.def Info: cantor.jpeg  used on input line 101.
+(pdftex.def)             Requested size: 311.48294pt x 150.68257pt.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 18.00587pt on input line 112.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 112.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 18.00587pt on input line 112.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 112.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--116
+
+ []
+
+[6 <./cantor.jpeg>] [7]
+<von.png, id=34, 398.48875pt x 652.4375pt>
+File: von.png Graphic file (type png)
+<use von.png>
+Package pdftex.def Info: von.png  used on input line 161.
+(pdftex.def)             Requested size: 219.16948pt x 358.84172pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+[8 <./von.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+ppl on input line 2
+14.
+
+(/home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/tex/latex/psnfss/omspp
+l.fd
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 214.
+ [10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--265
+
+ []
+
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 296--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+
+ []
+
+<1111.png, id=62, 342.5297pt x 232.61906pt>
+File: 1111.png Graphic file (type png)
+<use 1111.png>
+Package pdftex.def Info: 1111.png  used on input line 349.
+(pdftex.def)             Requested size: 342.52885pt x 232.61848pt.
+[16] [17 <./1111.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
+
+ []
+
+
+Overfull \hbox (14.12688pt too wide) in paragraph at lines 372--373
+[]\OT1/ppl/m/n/14.4 Known as the path in-te-gral for-mu-la-tion of quan-tum me-
+chan-ics, this method
+ []
+
+[18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 388--391
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--399
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+
+ []
+
+[21]
+Overfull \hbox (9.10487pt too wide) in paragraph at lines 446--448
+\OT1/ppl/m/n/14.4 Thus, just as frac-tal na-ture of the quan-tum me-chan-i-cal 
+path re-flects the Heisen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--448
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
+
+ []
+
+
+Overfull \hbox (28.86398pt too wide) detected at line 543
+ []$[]  \OML/zplm/m/it/14.4  \OT1/zplm/m/n/14.4 ([]\OT1/ppl/m/n/14.4 , \OML/zpl
+m/m/it/14.4 T \OT1/zplm/m/n/14.4 + \OML/zplm/m/it/14.4 ^^O\OT1/zplm/m/n/14.4 ) 
+= [] [] \OML/zplm/m/it/14.4 d[]^^Xexp[] \OMS/zplm/m/n/14.4 ^^B \OML/zplm/m/it/1
+4.4 exp []$ 
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+
+ []
+
+
+Overfull \hbox (24.25272pt too wide) in paragraph at lines 558--559
+\OT1/ppl/m/n/14.4 terms of $\OML/zplm/m/it/14.4 ^^O$ \OT1/ppl/m/n/14.4 as these
+ terms to-gether with $\OML/zplm/m/it/14.4 exp\OT1/zplm/m/n/14.4 [[]]$ \OT1/ppl
+/m/n/14.4 makes up the form $[] \OML/zplm/m/it/14.4 e[]x[]dx$\OT1/ppl/m/n/14.4 
+.[2] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
+
+ []
+
+
+Overfull \hbox (10.28444pt too wide) detected at line 567
+ []$[]  \OML/zplm/m/it/14.4  \OT1/zplm/m/n/14.4 ([]\OT1/ppl/m/n/14.4 , \OML/zpl
+m/m/it/14.4 T \OT1/zplm/m/n/14.4 + \OML/zplm/m/it/14.4 ^^O\OT1/zplm/m/n/14.4 ) 
+= \OML/zplm/m/it/14.4   \OMS/zplm/m/n/14.4 ^^@ []\OML/zplm/m/it/14.4 V  \OT1/zp
+lm/m/n/14.4 + []\OML/zplm/m/it/14.4  \OMS/zplm/m/n/14.4 r ^^A [] ^^@ [][][]\OML
+/zplm/m/it/14.4   \OT1/zplm/m/n/14.4 + []\OMS/zplm/m/n/14.4 r[]\OML/zplm/m/it/1
+4.4   \OT1/zplm/m/n/14.4 + []([] \OMS/zplm/m/n/14.4 ^^A r\OT1/zplm/m/n/14.4 )\O
+ML/zplm/m/it/14.4    $ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--571
+
+ []
+
+
+Underfull \hbox (badness 1152) detected at line 576
+ []$[]  \OML/zplm/m/it/14.4 i[][] \OT1/zplm/m/n/14.4 = \OMS/zplm/m/n/14.4 ^^@[]
+r[]\OML/zplm/m/it/14.4   \OT1/zplm/m/n/14.4 + []([] \OMS/zplm/m/n/14.4 ^^A r\OT
+1/zplm/m/n/14.4 )\OML/zplm/m/it/14.4   \OT1/zplm/m/n/14.4 + []\OML/zplm/m/it/14
+.4  \OT1/zplm/m/n/14.4 (\OMS/zplm/m/n/14.4 r ^^A []\OT1/zplm/m/n/14.4 ) + [][][
+]\OML/zplm/m/it/14.4   \OT1/zplm/m/n/14.4 + \OML/zplm/m/it/14.4 V   $ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--579
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--583
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 605--606
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--615
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 630--631
+
+ []
+
+[28] [29] (./MSc Thesis.aux) ) 
+Here is how much of TeX's memory you used:
+ 3277 strings out of 479303
+ 47887 string characters out of 5856872
+ 335461 words of memory out of 5000000
+ 20382 multiletter control sequences out of 15000+600000
+ 458079 words of font info for 177 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,13n,74p,988b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/home/kakashi/1INSTALLED/TeXLive/texlive2020/tex
+mf-dist/fonts/enc/dvips/base/8r.enc}</home/kakashi/1INSTALLED/TeXLive/texlive20
+20/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/kakashi/1INSTALL
+ED/TeXLive/texlive2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></h
+ome/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></home/kakashi/1INSTALLED/TeXLive/texlive20
+20/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb></home/kakashi/1INSTALLED/
+TeXLive/texlive2020/texmf-dist/fonts/type1/public/mathpazo/fplmbi.pfb></home/ka
+kashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/fonts/type1/public/mathpazo/fpl
+mr.pfb></home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/fonts/type1/pub
+lic/mathpazo/fplmri.pfb></home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msam10.pfb></home/kakashi/1INSTALLED/TeXL
+ive/texlive2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/kakashi/1
+INSTALLED/TeXLive/texlive2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></
+home/kakashi/1INSTALLED/TeXLive/texlive2020/texmf-dist/fonts/type1/urw/palatino
+/uplri8a.pfb>
+Output written on "MSc Thesis.pdf" (29 pages, 199383 bytes).
+PDF statistics:
+ 152 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
