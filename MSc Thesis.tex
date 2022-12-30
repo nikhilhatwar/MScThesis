@@ -1,5 +1,3 @@
-
-
 \documentclass[14pt]{extarticle}
 \usepackage[top=2cm,bottom=2.1cm,left=2.2cm,right=2.4cm]{geometry}
 \usepackage{graphicx}
@@ -60,7 +58,7 @@ May 2016
 \end{center}
 
 
-I am deeply grateful to my guide, Prof. Anil Gangal for giving me this opportunity to work with him, for sparing his valuable time for discussing concepts and patiently clearing my difficulties. It has been a great exposure and a leaning experience about how to go about studying a completely new subject for me.
+I am deeply grateful to my guide, Prof. Anil Gangal for giving me this opportunity to work with him, for sparing his valuable time for discussing concepts and patiently clearing my difficulties. It has been a great exposure and a learning experience about how to go about studying a completely new subject for me.
 \\
 
  I am also very thankful to Prof. Rajeev K. Pathak for his time and energetic efforts to help me with my doubts. And last but not least, I want to thank Prof. Ahmed Sayeed for always being there to help me with anything. I am extremely lucky to have had such great teachers.
@@ -78,16 +76,16 @@ I am deeply grateful to my guide, Prof. Anil Gangal for giving me this opportuni
 -Benoit Mandelbrot
 \end{flushright}
 
-A fractal is a natural phenomenon or a mathematical set that exhibits a repeating pattern that display at every scale. Is is also know as expanding symmetry or evolving symmetry. If the replication is exactly the same at every scale, it is called a self-similar pattern.\\
-In the past, mathematics has been concerned with sets and functions to which the methods of classical calculus can be applied. mathematics has been used to build man-made architectures viz. the pyramids, buildings, bridges and to study regular motions like projectiles, motion of planets etc.. The basic assumption that underlies the classical mathematics is that every shape is extremely regular. We reduce everything to straight lines, circles, triangles, cubes, flat surfaces and smooth edges. So classical mathematics is really well suited to the structures which are made by humans.
+A fractal is a natural phenomenon or a mathematical set that exhibits a repeating pattern that displays at every scale. It is also known as expanding symmetry or evolving symmetry. If the replication is exactly the same at every scale, it is called a self-similar pattern.\\
+In the past, mathematics has been concerned with sets and functions to which the methods of classical calculus can be applied. mathematics has been used to build man-made architectures viz. the pyramids, buildings, bridges and to study regular motions like projectiles, motion of planets etc.. The basic assumption that underlies classical mathematics is that every shape is extremely regular. We reduce everything to straight lines, circles, triangles, cubes, flat surfaces and smooth edges. So classical mathematics is really well suited to the structures which are made by humans.
 
 \newpage 
 
 \section{Introduction to Fractals:}
 The word 'fractal' was coined by Mandelbrot in his fundamental essay from the Latin word 'fractus' meaning broken to describe objects that were too irregular to fit into a traditional geometrical setting. A fractal is by definition a set for which the Hausdorff-Besicovtch dimension strictly exceeds the topological dimension.\\
-Too of the most important properties of the fractals are self similarity and non-integer dimension.\\
- What dies self similarity mean? If you look carefully at a fern leaf, you will notice that every little leaf part at a fern leaf, you will notice that every little leaf part of has the same shape and structure as the whole fern leaf. You can say that the fern leaf is self similar. The same is with fractals: you can magnify them many times and after every step you will notice the same shape which is characteristics of that particular fractal. \\
-The topological dimension of a set is always an integer. The non-integer dimension which are called Fractal dimension are a little subtle to explain. Very roughly, a dimension provides a description if how much space a set fills. Fractal dimension is a ratio providing a statistical index of complexity comparing how details in the pattern changes with the scale at which it is measured. The sets are functions that are not sufficiently smooth or regular are tended to be ignored as 'pathological' and not worthy of study. Certainly, they were regarded as individual curiosities and only rarely were thought of as a class to which a general theory might be applicable.\\
+Two of the most important properties of the fractals are self similarity and non-integer dimension.\\
+ What does self similarity mean? If you look carefully at a fern leaf, you will notice that every little leaf part at a fern leaf, you will notice that every little leaf part has the same shape and structure as the whole fern leaf. You can say that the fern leaf is self similar. The same is with fractals: you can magnify them many times and after every step you will notice the same shape which is characteristic of that particular fractal. \\
+The topological dimension of a set is always an integer. The non-integer dimension which is called Fractal dimension is a little subtle to explain. Very roughly, a dimension provides a description of how much space a set fills. Fractal dimension is a ratio providing a statistical index of complexity comparing how details in the pattern changes with the scale at which it is measured. The sets are functions that are not sufficiently smooth or regular and tend to be ignored as 'pathological' and not worthy of study. Certainly, they were regarded as individual curiosities and only rarely were thought of as a class to which a general theory might be applicable.\\
 But most physical patterns and systems occurring in nature are not regular shapes of the standard geometry derived from Euclid. The trees, plants, flowers, clouds, mountains etc. are outside of classical geometry. Fractal geometry offers almost unlimited ways of describing, measuring and predicting these natural phenomena. Moreover irregular sets provide a much better representation of many natural phenomena that do the figures of classical geometry.
 
 \newpage
@@ -121,13 +119,13 @@ The part of F in the interval [0,1/3] and the past of F in [2/3,1] are both geom
 That is, it contains details at arbitrary small scales. The more we enlarge the picture the more gaps become apparent to the eye.
 
 \item \textbf{F is obtained by a recursive procedure:}\\
-Our construction consisted of repeatedly removing the middle third of the intervals. The successive steps give increasingly good approximation '$E_k$' to the set F.
+Our construction consisted of repeatedly removing the middle third of the intervals. The successive steps give increasingly good approximations '$E_k$' to the set F.
 
 \item \textbf{The geometry of F is not easily described in classical terms:}\\
 It is not the locus of the points that satisfy some simple geometric condition, nor is it the set of solutions of any simple equation. It is awkward to describe the local geometry of F. Near each of its points are a large number of other points, separated by the gaps of varying lengths.
 
 \item \textbf{Size of set F:}\\
-Although F is in some ways quite a large set (uncountably infinite), its size is not quantized by the usual measures such as length. by any reasonable definition, F has length zero.
+Although F is in some ways quite a large set (uncountably infinite), its size is not quantized by the usual measures such as length. By any reasonable definition, F has length zero.
 \begin{center}
 
 \begin{tabular}{ccl}
@@ -164,11 +162,11 @@ l(F)&= 1-2^{0}\left(\frac{1}{3}\right)-2^1\left(\frac{1}{3^2}\right)-2^{2}\left(
 Fig 2: Construction of the Koch curve
 
 \end{center}
-Let $E_0$ be the line segment of unit length. The set $E_1$ consists of the four segments obtained by removing the middle third of $E_0$ and replacing it by the other 2 sides of equilateral triangle based on the removed segment. We construct $E_2$ by applying the same procedure to each of the segments in $E_1$ and so on. Thus $E_k$ comes from replacing the middle third of each straight line segment of $E_{k-1}$ by the other two sides of an equilateral triangle. When k is large, the curves $E_{k-1}$ and $E_k$ differ only in fine detail and as k tends to infinity, the sequence of polygonal curves $E_k$ approaches a limiting curve F, called the Von Koch curve. \\
+Let $E_0$ be the line segment of unit length. The set $E_1$ consists of the four segments obtained by removing the middle third of $E_0$ and replacing it by the other 2 sides of the equilateral triangle based on the removed segment. We construct $E_2$ by applying the same procedure to each of the segments in $E_1$ and so on. Thus $E_k$ comes from replacing the middle third of each straight line segment of $E_{k-1}$ by the other two sides of an equilateral triangle. When k is large, the curves $E_{k-1}$ and $E_k$ differ only in fine detail and as k tends to infinity, the sequence of polygonal curves $E_k$ approaches a limiting curve F, called the Von Koch curve. \\
 
 
 
-The Von Koch curve F has features in many ways similar to those listed for middle third Cantor set. Whilst is reasonable to call F a curve, it is much too irregular to have tangents in the classical sense.\\
+The Von Koch curve F has features in many ways similar to those listed for the middle third Cantor set. Whilst is reasonable to call F a curve, it is much too irregular to have tangents in the classical sense.\\
 
 \begin{center}
 \begin{tabular}{cl}
@@ -184,11 +182,11 @@ $E_k $ interval & $ \rightarrow (4/3)^k$\\
 As $k\rightarrow\infty$, length of l(F) $\rightarrow\infty$
 \end{center}
 
-So, 'F' has infinite length. On the other hand, 'F' occupy zero area in the plane, so neither length nor area provides a very useful description of the size of 'F'.
+So, 'F' has infinite length. On the other hand, 'F' occupies zero area in the plane, so neither length nor area provides a very useful description of the size of 'F'.
 
 \pagebreak
 \section{Mathematical background}
-We recall same basic notions from set theory and point set topology here. We generally work in n-dimensional Euclidean space $\mathbb{R}^n$.\\
+We recall the same basic notions from set theory and point set topology here. We generally work in n-dimensional Euclidean space $\mathbb{R}^n$.\\
 Let coordinates of points in $\mathbb{R}^n$ be\\
 $$x \rightarrow x\ (x_1,x_2,x_3,...,x_n),\quad y \rightarrow y(y_1,y_2,y_3,...,y_n)$$\\
 
@@ -217,15 +215,15 @@ A set of points not in set A is called complement of set A.\\
 $ A'=\mathbb{R}^n$ \textbackslash A
 
 \subsection{Supremum: sup A:}
-It is the least number 'm' such that $x\leq m$ for every x in A or $\infty$ if not such number exists.
+It is the least number 'm' such that $x\leq m$ for every x in A or $\infty$ if no such number exists.
 
 \subsection{Infimum: inf A:}
 
-It is the greatest number 'm' such that $m\leq x$ for all x in A or if not then infimum of A is infinite.
+It is the greatest number 'm' such that $m\leq x$ for all x in A or if not then the infimum of A is infinite.
 
 \subsection{Diameter: $|$A$|$:}
 
-Diameter of a non-empty set is the distance apart of pairs of points in A.
+Diameter of a non-empty set is the distance apart from pairs of points in A.
 
 $$|A|= sup\{|x-y|: x,y \in A\}$$
 
@@ -243,7 +241,7 @@ A set is closed if the limit of any convergent sequence of points from the set l
 $$\partial A = \bar{A} \backslash int(A)$$
 
 Where $\bar{A}$ = Closure of A $\rightarrow$ Intersection of all closed sets containing a set A.\\
-and int(A) = Interior of A $\rightarrow$ Union of all open set contained in A.\\
+and int(A) = Interior of A $\rightarrow$ Union of all open sets contained in A.\\
 The set $\emptyset$ and $\mathbb{R}^n$ are regarded as both open and closed.
 
 \subsection{Compact set:}
@@ -251,7 +249,7 @@ A set A is compact if any collection of open sets which covers A (i.e. with unio
 
 \subsection{Connected:}
 
-A set is connected if there do not exist open set U and V such that $U \cup V$ contains A and $A \cap U$ and $A \cap V$ disjoint and non-negative and empty. The set A consist of just one 'piece'. 
+A set is connected if there does not exist an open set U and V such that $U \cup V$ contains A and $A \cap U$ and $A \cap V$ disjoint and non-negative and empty. The set A consists of just one 'piece'. 
 
 \subsection{Totally disconnected:}
 
@@ -358,7 +356,7 @@ Fig 3: Hausdorff dimension
 
 \section{Path Integrals in Quantum mechanics}
 
-A fundamental question in quantum mechanics is how does the state of a particle evolves with time? That is, the determination of the   $|\psi(t)\rangle$ given some initial state $|\psi(t_0)\rangle$. Schrödinger’s equation is one way of finding it. A well-established method of solution, after the entire eigen spectrum of $\hat{H}$ is known, is to decompose the initial state into this eigenbasis, apply time evolution to each and then reassemble the eigenstates.
+A fundamental question in quantum mechanics is how does the state of a particle evolve with time? That is, the determination of the   $|\psi(t)\rangle$ given some initial state $|\psi(t_0)\rangle$. Schrödinger’s equation is one way of finding it. A well-established method of solution, after the entire eigen spectrum of $\hat{H}$ is known, is to decompose the initial state into this eigenbasis, apply time evolution to each and then reassemble the eigenstates.
 
 $$|\psi(t)\rangle = \sum_{n=0}^{\infty} e^{-iE_n t/\hbar} \langle n|\psi(t_0) \rangle |n \rangle$$
 
@@ -385,7 +383,7 @@ $$U(x',t';x_0,t_0) = A(t) \sum_{all \, trajectories} e^{iS[x(t)]/\hbar}$$
  
  \subsection{Introduction:}
  
- In quantum mechanics, the distance which a particle travels in a fixed period of time depends on the resolution of the detecting apparatus which is used to track the particle. Similar correlations between distance and resolution are found in curves which are given by everywhere continuous but nowhere differentiable functions, like the Koch curve we saw as an example of fractal. The similarity between this curve and the quantum mechanical particle become apparent when we consider viewing the Koch curve with finite spatial resolution. In this case, the infinitely many wiggles in the curve which are smaller that some minimum length $\Delta x$, cannot be detected and the measured length of the curve resolving distances greater than some scale $\Delta x$ and measure its length to be l. Then if we improve our resolution so that $\Delta x'=(1/3) \Delta x$, the next level of wiggles in the curve will become visible and we will measure a new length $l'=(4/3)l$.\\
+ In quantum mechanics, the distance which a particle travels in a fixed period of time depends on the resolution of the detecting apparatus which is used to track the particle. Similar correlations between distance and resolution are found in curves which are given by everywhere continuous but nowhere differentiable functions, like the Koch curve we saw as an example of fractal. The similarity between this curve and the quantum mechanical particle become apparent when we consider viewing the Koch curve with finite spatial resolution. In this case, the infinitely many wiggles in the curve which are smaller than some minimum length $\Delta x$, cannot be detected and the measured length of the curve resolves distances greater than some scale $\Delta x$ and measure its length to be l. Then if we improve our resolution so that $\Delta x'=(1/3) \Delta x$, the next level of wiggles in the curve will become visible and we will measure a new length $l'=(4/3)l$.\\
  Since the conventional definition of length, when applied to curves like the Koch curve, gives a quantity which depends on the resolution with which the curve is examined(even for very small 
 $ \Delta x$), it is not very useful. Hausdorff proposed a modified definition of length to be used in these cases.\\
 
@@ -397,7 +395,7 @@ D:\hspace{7mm}  A number chosen so that L will be independent of $\Delta x$\\
  l:\hspace{10mm} Usual length measured for $\Delta x$ resolution.\\
 $\Delta x$:\hspace{5mm} Resolution of length measurement.\\
 
-Hausdorff length reduces to usual concept of length when D=1. For the Koch curve, we determined D by requiring that,
+Hausdorff length reduces to the usual concept of length when D=1. For the Koch curve, we determined D by requiring that,
 
 $$L'=l'(\Delta x')^{D-1}= \frac{4}{3}l \left( \frac{1}{3} \Delta x \right)^{D-1} = l(\Delta x)^{D-1}$$
 
@@ -443,10 +441,10 @@ also from previous case $\langle \Delta l \rangle \propto \frac{\hbar \Delta t}{
 
 $$\therefore \Delta t \propto \frac{m (\Delta x)^2}{\hbar}$$
 
-This is required for resulting path to be self-similar. Refer section II of paper for justification for $\Delta l \propto \Delta x$, and section III for usage of $\Delta t \propto m (\Delta x)^2 / \hbar$ for the case of non-zero average momentum.\\
+This is required for the resulting path to be self-similar. Refer section II of paper for justification for $\Delta l \propto \Delta x$, and section III for usage of $\Delta t \propto m (\Delta x)^2 / \hbar$ for the case of non-zero average momentum.\\
 Thus, just as fractal nature of the quantum mechanical path reflects the Heisenberg uncertainty principle, the condition for self-similarity, above proportionality is a reflection of the underlying dynamics $E=p^2 /2m$.\\
 
-From the section III of paper, the last equation gives the Hausdorff length of particle with $\mathbf{p_{av}}$ as average momentum.
+From section III of the paper, the last equation gives the Hausdorff length of a particle with $\mathbf{p_{av}}$ as average momentum.
 
 $$ \langle L \rangle = N \langle \Delta l \rangle (\Delta x)^{D-1}$$
 
@@ -553,7 +551,7 @@ $$\therefore d^3y=d^3 \xi$$
 
 
 
-We are considering the integral in the limit $\epsilon \rightarrow 0$. We ar hence only interested in terms of first order in $\epsilon$.\\
+We are considering the integral in the limit $\epsilon \rightarrow 0$. We are hence only interested in terms of first order in $\epsilon$.\\
 
 The factor $\xi$ which appear inside the integral have an effective size in terms of $\epsilon$ as these terms together with $exp[\frac{im \xi^2}{2 \epsilon \hbar}]$ makes up the form $\int e^{-x^2} x^n dx$.[2]\\
 
